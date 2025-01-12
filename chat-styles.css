@@ -1,0 +1,11 @@
+* {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+    /* Make all background colors transparent */
+}
+.chat-room__content>*:not(.chat-list--default) {
+    display: none; /* Hide community banners, highlights */
+}
+
+.stream-chat-header, .chat-input {
+  display: none !important;
+}

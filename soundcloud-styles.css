@@ -1,0 +1,20 @@
+body,
+#widget,
+.sound, .compactSound{
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    margin: 0px auto;
+    overflow:
+        hidden;
+}
+* {
+    border: none !important;
+    box-shadow: none !important;
+}
+.privacyPolicy,
+.soundHeader__logo,
+.multiSounds__container,
+.soundHeader__actions,
+.playButton {
+    display: none !important;
+}
