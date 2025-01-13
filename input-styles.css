@@ -40,9 +40,9 @@
 }
 
 .custom .trigger.right{
+    background: url(https://i.imgur.com/jfqnqtV.png)no-repeat;
     width: 103px;
     height: 87px;
-    background: url(https://i.imgur.com/jfqnqtV.png)no-repeat;
     display: block;
     /* top: 4px; */
 }
