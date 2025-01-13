@@ -10,6 +10,6 @@
   display: none !important;
 }
 
-.chat-scrollable-area__message-container > div:has(> .chat-line__status):not(:first-of-type) {
+.chat-scrollable-area__message-container > div:nth-of-type(n+2) .chat-line__status{
   display: none !important;
 }
