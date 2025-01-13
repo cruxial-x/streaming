@@ -9,3 +9,7 @@
 .stream-chat-header, .chat-input {
   display: none !important;
 }
+
+.chat-scrollable-area__message-container > div:has(> .chat-line__status):not(:first-of-type) {
+  display: none !important;
+}
