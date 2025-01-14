@@ -1,6 +1,6 @@
 /*Start Minimal GC Styling*/
 .controller.custom {
-    background: url(https://imgur.com/CdyFFZZ.png);
+    background: url(images/controller.custom.png);
     height: 441px;
     width: 981px;
 }
@@ -14,7 +14,7 @@
 }
 
 .custom .bumper.left{
-    background: url(https://imgur.com/Wd6VBny.png)no-repeat;
+    background: url(images/bumper.left.png)no-repeat;
     height: 27px;
     width: 341px;
     display: block;
@@ -24,7 +24,7 @@
 }
 
 .custom .bumper.right{
-    background: url(https://imgur.com/Wd6VBny.png)no-repeat;
+    background: url(images/bumper.left.png)no-repeat;
     height: 27px;
     width: 341px;
     display: block;
@@ -40,7 +40,7 @@
 }
 
 .custom .trigger.right{
-    background: url(https://i.imgur.com/jfqnqtV.png)no-repeat;
+    background: url(images/trigger.right.png)no-repeat;
     width: 103px;
     height: 87px;
     display: block;
@@ -58,7 +58,7 @@
 }
 
 .custom .dpad .face{
-    background: url(https://imgur.com/prOPSDe.png);
+    background: url(images/dpad.face.png);
     height: 77px;
     width: 47px;
     /* background-position-y: -164px; */
@@ -163,7 +163,7 @@
 }
 
 .custom .start{
-    background: url(https://imgur.com/RuHF1J5.png);
+    background: url(images/start.png);
     width: 71px;
     height: 71px;
     /* background-position-y: -341px; */
